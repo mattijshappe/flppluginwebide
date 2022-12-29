@@ -1,0 +1,9 @@
+{
+	"applications": {},
+	"bootstrapPlugins": {
+		"CtacLaunchpadExtension": {
+			"component": "ctac.flp.plugin",
+			"url": "../../../../../"
+		}
+	}
+}
